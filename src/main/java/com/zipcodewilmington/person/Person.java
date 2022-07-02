@@ -45,7 +45,7 @@ public class Person {
     }
 
     public String getName() {
-        return this.name = name;
+        return this.name;
     }
 
     public void setAge(int age) {
@@ -53,7 +53,7 @@ public class Person {
     }
 
     public Integer getAge() {
-        return this.age = age;
+        return this.age;
     }
 
     public void setLastName (String lastName) {
@@ -61,7 +61,7 @@ public class Person {
     }
 
     public String getLastName () {
-        return this.lastName = lastName;
+        return this.lastName;
     }
 
     public void setEyeColor (String eyeColor) {
@@ -69,7 +69,7 @@ public class Person {
     }
 
     public String getEyeColor () {
-        return this.eyeColor = eyeColor;
+        return this.eyeColor;
     }
 
     public void setHeight (int height) {
@@ -77,7 +77,7 @@ public class Person {
     }
 
     public int getHeight () {
-        return this.height = height;
+        return this.height;
     }
 
     public void setIQ (int IQ) {
@@ -85,7 +85,7 @@ public class Person {
     }
 
     public int getIQ () {
-        return this.IQ = IQ;
+        return this.IQ;
     }
 
     public void setYearsOfSchool (int yearsOfSchool) {
@@ -93,6 +93,6 @@ public class Person {
     }
 
     public int getYearsOfSchool () {
-        return this.yearsOfSchool = yearsOfSchool;
+        return this.yearsOfSchool;
     }
 }
