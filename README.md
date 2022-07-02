@@ -10,3 +10,10 @@
 * **Finish Features**
     * Add 5 different fields to the `Person` class.
     * Ensure each of the methods for manipulating and accessing these fields have appropriate testing in the `TestPerson`.
+    * name x
+    * age x
+    * lastName x
+    * eyeColor x
+    * height x
+    * IQ x
+    * yearsOfSchool x
